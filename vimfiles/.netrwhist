@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='D:\work\bluegame\client\art\res\Game\TD\Sprite\Building'
+let g:netrw_dirhist_2='D:\work\bluegame\client\art\res\Game\TD\module\building'
+let g:netrw_dirhist_3='C:\Windows\system32'
+let g:netrw_dirhist_4='C:/Windows/system32/config'
+let g:netrw_dirhist_5='C:/Windows/system32/config/systemprofile'
